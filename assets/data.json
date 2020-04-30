@@ -1,0 +1,110 @@
+[
+  {
+    "placeImage": "images/pounded_yam.jpg",
+    "placeName": "Pounded Yam and Efo-riro",
+    "placeItems": ["Wine","Juice","Beer","Soda","Iced Tea"],
+    "minOrder": 20
+  },
+  {
+    "placeImage": "images/ofada_rice.jpg",
+    "placeName": "Ofada Rice",
+    "placeItems": ["Wine","Juice","Beer","Soda","Iced Tea"],
+    "minOrder": 50
+  },
+  {
+    "placeImage": "images/ewa-agoyin.jpg",
+    "placeName": "Ewa Agonyin with Plantain",
+    "placeItems": ["Wine","Juice","Beer","Soda","Iced Tea"],
+    "minOrder": 20
+  },
+  {
+    "placeImage": "images/bluehill.jpg",
+    "placeName": "Steak",
+    "placeItems": ["Wine","Juice","Beer","Soda","Iced Tea"],
+    "minOrder": 40
+  },
+  {
+    "placeImage": "images/Peppered-Snail.jpg",
+    "placeName": "Peppered Snail",
+    "placeItems": ["Wine","Juice","Beer","Soda","Iced Tea"],
+    "minOrder": 40
+  },
+  {
+    "placeImage": "images/gizdodo.jpg",
+    "placeName": "Gizdodo",
+    "placeItems": ["Wine","Juice","Beer","Soda","Iced Tea"],
+    "minOrder": 40
+  },
+  {
+    "placeImage": "images/nkwobi.png",
+    "placeName": "Nkwobi",
+    "placeItems": ["Wine","Juice","Beer","Soda","Iced Tea"],
+    "minOrder": 40
+  },
+  {
+    "placeImage": "images/salmon_grill.jpg",
+    "placeName": "Grilled Salmon",
+    "placeItems": ["Wine","Juice","Beer","Soda","Iced Tea"],
+    "minOrder": 40
+  },
+  {
+    "placeImage": "images/Potato-Wedges.jpg",
+    "placeName": "Potato Wedges",
+    "placeItems": ["Wine","Juice","Beer","Soda","Iced Tea"],
+    "minOrder": 40
+  },
+  {
+    "placeImage": "images/Yam-pottage.jpg",
+    "placeName": "Yam Pottage",
+    "placeItems": ["Wine","Juice","Beer","Soda","Iced Tea"],
+    "minOrder": 40
+  },
+  {
+    "placeImage": "images/shrimp.jpg",
+    "placeName": "Grilled Shrimp",
+    "placeItems": ["Wine","Juice","Beer","Soda","Iced Tea"],
+    "minOrder": 40
+  },
+  {
+    "placeImage": "images/fish.jpg",
+    "placeName": "Grilled Fish",
+    "placeItems": ["Wine","Juice","Beer","Soda","Iced Tea"],
+    "minOrder": 40
+  },
+  {
+    "placeImage": "images/Chicken-Pasta-Salad.jpg",
+    "placeName": "Chicken Pasta Salad",
+    "placeItems": ["Wine","Juice","Beer","Soda","Iced Tea"],
+    "minOrder": 40
+  },
+  {
+    "placeImage": "images/chicken.jpg",
+    "placeName": "Grilled Chicken",
+    "placeItems": ["Wine","Juice","Beer","Soda","Iced Tea"],
+    "minOrder": 40
+  },
+  {
+    "placeImage": "images/noodles.jpg",
+    "placeName": "Noodles with veggies",
+    "placeItems": ["Wine","Juice","Beer","Soda","Iced Tea"],
+    "minOrder": 40
+  },
+  {
+    "placeImage": "images/grilled_chicken.jpg",
+    "placeName": "Flame Kissed BBQ Chicken",
+    "placeItems": ["Wine","Juice","Beer","Soda","Iced Tea"],
+    "minOrder": 40
+  },
+  {
+    "placeImage": "images/bluehill.jpg",
+    "placeName": "Blue Hill",
+    "placeItems": ["Wine","Juice","Beer","Soda","Iced Tea"],
+    "minOrder": 40
+  },
+  {
+    "placeImage": "images/Grilled_Steak.jpg",
+    "placeName": "Lamb Chops",
+    "placeItems": ["Wine","Juice","Beer","Soda","Iced Tea"],
+    "minOrder": 40
+  }
+]
