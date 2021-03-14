@@ -18,13 +18,12 @@ class MyApp extends StatelessWidget {
   }
 }
 
-var bannerItems = ["Amala", "Jollof Rice", "Chicken Pasta Salad", "Corn on the Cob", "Shrimps"];
+var bannerItems = ["Shrimps", "Grill", "Chicken Pasta Salad", "Corn on the Cob"];
 var bannerImage = [
-  "images/amala.jpg",
-  "images/jollofrice.jpg",
+  "images/shrimps.jpg",
+  "images/bluehill.jpg",
   "images/Chicken-Pasta-Salad.jpg",
   "images/corn_on_the_cob.jpg",
-  "images/shrimps.jpg"
 ];
 
 class MyHomePage extends StatelessWidget {
